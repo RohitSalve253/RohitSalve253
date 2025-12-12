@@ -1,24 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23829
-Fork on GitHub
-8169
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
-<h1 align="center">Hi 👋, I'm Rohit Salve</h1>
+ <h1 align="center">Hi 👋, I'm Rohit Salve</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsalve253" alt="rohitsalve253" /></a> </p>
@@ -45,28 +25,3 @@ markdown
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsalve253&show_icons=true&locale=en&layout=compact" alt="rohitsalve253" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsalve253&show_icons=true&locale=en" alt="rohitsalve253" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
